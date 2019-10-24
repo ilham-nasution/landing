@@ -1,0 +1,27 @@
+.social-media {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.social-media a {
+  text-decoration: none;
+  color: rgba(228, 241, 254, 1);
+  margin: 6px;
+}
+
+.social-media a:hover {
+  color: #3498db;
+}
+
+.footer {
+  background-color: rgba(36, 37, 42, 1);
+  height: 200px;
+  padding: 40px;
+}
+
+.footer p {
+  display: flex;
+  color: rgba(228, 241, 254, 1);
+  justify-content: center;
+}
